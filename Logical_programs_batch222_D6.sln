@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logical_programs_batch222_D6", "Logical_programs_batch222_D6\Logical_programs_batch222_D6.csproj", "{F23B5AE9-8AE4-488B-8426-8F5E1C2CABEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F23B5AE9-8AE4-488B-8426-8F5E1C2CABEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F23B5AE9-8AE4-488B-8426-8F5E1C2CABEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F23B5AE9-8AE4-488B-8426-8F5E1C2CABEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F23B5AE9-8AE4-488B-8426-8F5E1C2CABEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6ABA998-4905-4857-9A2A-F2E587AB6947}
+	EndGlobalSection
+EndGlobal
