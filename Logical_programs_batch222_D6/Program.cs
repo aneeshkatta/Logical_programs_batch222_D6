@@ -43,8 +43,7 @@ namespace Logical_programs_batch222_D6
                     Obj7.MinimumNotesCheck();
                     break;
                 case 8:
-                    DayOftheWeek Obj8 = new DayOftheWeek();
-                    Obj8.DayCheck();
+                    DayOftheWeek.DayCheck();
                     break;
                 case 9:
                     TemperaturConversion Obj9 = new TemperaturConversion();
