@@ -52,8 +52,7 @@ namespace Logical_programs_batch222_D6
                     MonthlyPayment.MonthlyPayCheck();
                     break;
                 case 11:
-                    SquareRoot Obj11 = new SquareRoot();
-                    Obj11.SquareRootValueCheck();
+                    SquareRoot.SquareRootValueCheck();
                     break;
                 case 12:
                     ToBinary Obj12 = new ToBinary();
