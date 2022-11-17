@@ -49,8 +49,7 @@ namespace Logical_programs_batch222_D6
                     TemperaturConversion.TempCheck();
                     break;
                 case 10:
-                    MonthlyPayment Obj10 = new MonthlyPayment();
-                    Obj10.MonthlyPayCheck();
+                    MonthlyPayment.MonthlyPayCheck();
                     break;
                 case 11:
                     SquareRoot Obj11 = new SquareRoot();
