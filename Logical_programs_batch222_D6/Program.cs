@@ -32,8 +32,7 @@ namespace Logical_programs_batch222_D6
                     Obj4.ReverseGenerate();
                     break;
                 case 5:
-                    CouponNumbers Obj5 = new CouponNumbers();
-                    Obj5.CouponGenerate();
+                    CouponNumbers.CouponGenerate();//calling by static method
                     break;
                 case 6:
                     StopwatchSimulate Obj6 = new StopwatchSimulate();
