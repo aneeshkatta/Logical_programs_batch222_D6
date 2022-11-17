@@ -46,8 +46,7 @@ namespace Logical_programs_batch222_D6
                     DayOftheWeek.DayCheck();
                     break;
                 case 9:
-                    TemperaturConversion Obj9 = new TemperaturConversion();
-                    Obj9.TempCheck();
+                    TemperaturConversion.TempCheck();
                     break;
                 case 10:
                     MonthlyPayment Obj10 = new MonthlyPayment();
